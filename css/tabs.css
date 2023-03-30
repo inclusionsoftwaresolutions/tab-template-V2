@@ -1,0 +1,15 @@
+.link-secondary {
+  color: #cccccc;
+}
+
+.active.link-secondary {
+  font-weight: bold;
+  color: #fff;
+}
+
+.tab-content .tab-pane {
+  padding: 15px;
+  border: 1px solid #cccccc;
+}
+
+/*# sourceMappingURL=tabs.css.map */

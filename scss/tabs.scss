@@ -1,0 +1,19 @@
+$link-color:#cccccc;
+$active-color:#fff;
+$black:#000000;
+$border-grey:#cccccc;
+
+
+.link-secondary {
+  color:$link-color;
+}
+.active.link-secondary{
+  font-weight: bold;
+  color:$active-color;
+}
+.tab-content {
+  .tab-pane {
+      padding: 15px;
+      border: 1px solid $border-grey;
+  }
+}
